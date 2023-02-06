@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {
+        background-image: url("https://www.example.com/galaxy.jpg");
+        background-size: cover;
+        height: 100vh;
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 style="color: white; text-align: center; padding-top: 25vh;">Willkommen in der Galaxie</h1>
+  </body>
+</html>
